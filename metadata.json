@@ -1,0 +1,10 @@
+{
+  "name": "Remix: On-Demand Ride \u0026 Assistant App",
+  "description": "A comprehensive on-demand real-time assistant, ride booking, parcel delivery, and manual service platform (heavy lifting \u0026 queue management) featuring a driver-side dashboard, voice recognition, and offline support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
